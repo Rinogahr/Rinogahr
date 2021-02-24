@@ -1,16 +1,10 @@
-import { Button } from './componentes/Button';
+import { ExperienceBar } from './componentes/ExperienceBar';
+import './style/glbal.css';
+
 function App() {
   return (
-    <div>
-      <Button color="red">
-        Rodrigo
-      </Button>
-      <Button color="blue">
-        João
-      </Button>
-      <Button color="pink">
-        Zaminha
-      </Button>
+    <div className="container">
+      <ExperienceBar/>
     </div>
   );
 }
