@@ -1,0 +1,1 @@
+exports.JWP_KEY = "ZXPURQOARHiMc6Y0flhRC1LVlZQVFRnm";

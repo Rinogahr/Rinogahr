@@ -4,10 +4,10 @@ const app = express();
 
 
 
-const Teste = require("./rotas/rota_teste");
+const login = require("./rotas/usuariorota");
 
 
-app.use('/',Teste);
+app.use('/login',login);
 
 
 
@@ -27,6 +27,16 @@ app.use('/',Teste);
 //     res.send("AQUI É O CADASTRO DE PRODUTO")
 // })
 
+app.use('/',express.static('frontand'))
+app.all('/*',(req,res) =>{
+    res.sendFile( path.join( __dirname, '..','frontand', 'index.html' ) );
+})
+
+//tratamento de erro
+app.use((req, res, next)=>{
+
+    res.send('ROTA NÃO EXISTE')
+ })
 
 
 console.log("Conectado");
