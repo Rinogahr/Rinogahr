@@ -3,7 +3,7 @@ require('dotenv').config()
 
 const HOST = process.env.BD_HOST || 'localhost';
 const USER = process.env.BD_USER || 'root';
-const PASSWORD = process.env.BD_PASSWORD || '0811';
+const PASSWORD = process.env.BD_PASSWORD || '270883';
 const PORT = Number( process.env.BD_PORT || 3306 );
 const DATABASE = process.env.BD_DATABASE || 'oboticario';
 const TIMEZONE = process.env.TIMEZONE || 'utc';
