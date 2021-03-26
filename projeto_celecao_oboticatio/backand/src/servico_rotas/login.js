@@ -5,12 +5,14 @@ const { querySync } = require("../conectorbd/mysql");
 //rota de login
 exports.login = async( req, res, next) =>{
     try {
-        const {login,senha} = req.query;
-
+        var {login,senha} = req.query;
+        
         const result = await querySync(`SELECT * FROM revendedor
         WHERE login LIKE ?
-        AND (senha = password(?))
-        AND (excluir is null or not excluir)`[login,senha]);
+        AND senha = ?
+        AND (excluir is null or not excluir)`,[login,senha]);
+        
+        console.log('Resultado',result);
 
         if(!login || !senha){
             return res.json({error:"login ou senha não definido como parametro"})
@@ -42,6 +44,6 @@ exports.login = async( req, res, next) =>{
         }
     } catch (error) {
         res.send({error: 'Erro ao se conectar'})
-        console.log(error);
+        console.error(error);
     }
 }

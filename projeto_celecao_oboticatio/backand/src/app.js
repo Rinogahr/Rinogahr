@@ -1,44 +1,44 @@
-const express = require("express");
-const path = require("path");
+const express = require('express');
+const bodyParser = require('body-parser');
+const cors = require('cors');
+//const path = require('path')
+
 const app = express();
+var door = 8080;
 
-
-
-const login = require("./rotas/usuariorota");
-
-
-app.use('/login',login);
-
-
-
-// app.get("/", function( req, res){
-//     res.send("BEM VINDO AO PROJETO OBOTICARIO INFORME SEU LOGIN E SENHA")
+app.use(cors());
+app.use(bodyParser.urlencoded({extended:false}));
+app.use(bodyParser.json());
+// app.use('/portal/',express.static('frontend'));
+// app.use ('portal/ *', (req, res) => {
+//     res.sendFile (path.join ( root, '/portaldev/'));
 // })
 
-// app.get("/cad", function( req, res){
-//     res.send("CRIE SEU CADASTRO")
-// })
 
-// app.get("/home", function( req, res){
-//     res.send('Bem vindo a tela de home')
-// })
 
-// app.get("/produto", function( req, res){
-//     res.send("AQUI É O CADASTRO DE PRODUTO")
-// })
 
-app.use('/',express.static('frontand'))
-app.all('/*',(req,res) =>{
-    res.sendFile( path.join( __dirname, '..','frontand', 'index.html' ) );
-})
+const Login = require("./rotas/usuariorota");
+const rv = require("./rotas/rota_teste");
+const CadastroRevendedor = require("./rotas/rev_rotas")
+
+
+app.use("/login",Login);
+app.use("/teste",rv);
+app.use("/revendedor",CadastroRevendedor);
+
+
+
 
 //tratamento de erro
 app.use((req, res, next)=>{
 
-    res.send('ROTA NÃO EXISTE')
- })
+   res.send('ROTA NÃO EXISTE')
+})
 
 
-console.log("Conectado");
 
-app.listen(8081);
+app.listen( door, function(){
+    console.log("Conectado na porta -> "+door);
+})
+
+module.exports = app;
