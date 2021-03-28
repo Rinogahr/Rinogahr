@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { TelaLogin } from "./page/loginPage/loginPage";
+import { Login2,TelaLogin } from "./page/loginPage/loginPage";
 
 ReactDOM.render(
   <React.StrictMode>
-    <TelaLogin />
+    <Login2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
