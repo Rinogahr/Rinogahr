@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Login2,TelaLogin } from "./page/loginPage/loginPage";
+import { Login2 } from "./mypage/loginPage/loginPage";
+import Rotas from './rotas'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Login2 />
-  </React.StrictMode>,
+
+   <Rotas />,
+
   document.getElementById('root')
 );
 
