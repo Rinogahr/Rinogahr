@@ -43,3 +43,37 @@
     2º => OUTROS SISTEMA TRABALHA COM DIFERENÇA DO ARQUIVOS O GIT TRABALHA COM ESTADOS DOS ARQUIVOS
 }
 
+
+### O QUE É GITHUB ? -> R:(é um serviço webe compartilhado para projetos que utilizam o [GIT] para versionamento.) OBS:. [GIT] NÃO É O MESMO QUE O GITHUB
+
+#### ESTALANDO O GIT NA MAQUINA WINDOWS ###########
+
+ -> SITE PARA DOWNLOAD OD GIT (***https://git-scm.com/downloads***).
+
+ ### CONFIGURAÇÃO INICIAL DO GIT ###
+
+    PARA CONFIGURAR O GIT EXISTE 3 FORMAS...
+    1º - GIT CONFIG DE TODO O SISTEMA
+    2º - GIT CONFIG DO USUARIO
+    3º - GIT CONFIG DO PROJETO ESPECIFICO
+***CONFIGURANDO O USUARIO***
+ [nome de usuario - [git config --global user.name "nome do usuario"]
+ e-mail - [git config --global user.email "e-mail do usuario"]
+ editor principal do git - [git config --global core.editor  "comando do editor de sua escolha"] se não definir por padrão ele ira usa o vin mesmo.
+
+    *para ver os valore que vc configurou no seu git como nome do usuario, email, editor etc... basta usar esses comandos
+    (git config user.name)   para nome do usuario
+    (git config user.emal)   para o e-mail do usuario
+    (git config core.editor) para o editor escolhido
+    se quiser ver tudo de uma só vez basta digitar (git config --list)
+]
+
+**INICIALIZANDO UM REPOSITÓRIO**
+    {
+        CRIANDO UMA PASTA PARA PROJETO -> [###mkdir "***NOME DA PASTA***]
+        ENTRANDO NA PASTA CRIADA ***cd nome da pasta***/
+        inicializar um diretorio => git init
+        voltar uma pasta anterior cd ..
+    }
+
+
