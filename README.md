@@ -4,7 +4,7 @@
 
 --> Tenho 32 anos, sou apaixonado por programação e tecnologia,
 sou um  *** Desenvolvedor Full Stack ***. <br/> 
-moro em Recife PE, atuo na parte ✨FrontEnd✨ e ✨BackEnd✨ a 1 ano e 3 meses na empresa NTDSoft.<br/>
+moro em Recife PE, atuo na parte ✨FrontEnd✨ e ✨BackEnd✨ a 2 anos na empresa NTDSoft.<br/>
 hoje projetamos em ***React.js e React Nativ, Node.js, banco de dados Mysql*** dois novos projetos, o portal do Professor, e portal do aluno.
 Tenho experiência em...
 
