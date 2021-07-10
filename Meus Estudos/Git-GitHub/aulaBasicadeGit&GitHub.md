@@ -77,3 +77,10 @@
     }
 
 
+*** Aula 2 - Usando o Editor do Terminal ***
+[]
+    SE UTILIZARMOS O COMANDO [vi ***nome do arquivo*** (caso não exista será criado)]. o terminal entrará no arquivo especifico. 
+    para poder editar o arquivo utilizamos o comando [ i = **INSERT**], e o arquivo entrará em modo de edição.
+    após escrever tudo o que eu quero eu clico na tela [**Esc] para sair do modo edição. apertando o [:] iniciarei um comando [w] escrever e salvar [q] para sair sair e apertar em [ENTER] para termina a edição.
+
+
