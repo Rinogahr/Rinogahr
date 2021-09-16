@@ -1,0 +1,11 @@
+{
+    "tasks":[
+        {
+            "id": "1" ,
+            "titulo": "Levar o Cachorro para passear",
+            "descricao": "na segunda-feira levar toto, na quarta-feita levar lucy, na sexta-feira levar cavalo-manco",
+            "dataCriacao": "24/08/2021",
+            "dataCadastro": "24/08/2021" 
+        }
+    ]
+}
