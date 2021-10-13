@@ -1,0 +1,109 @@
+html body{
+    padding: 0px;
+    margin: 0px;
+}
+@media screen and (max-width: 1280px) {
+    #paiDivLogin{
+        display: flex!important;
+        background: #80F2E7;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    #screeshotPC{
+        display: none!important;
+    }
+}
+#paiDivLogin{
+    display: none;
+}
+
+#filhoDivLogin{
+    display: flex;
+    width: 40vw;
+    height: auto;
+    padding: 5rem;
+    margin: 5rem;
+    background: rgba(255, 255, 255, 0.81);
+    border-radius: 12px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+#filhoDivLogin div{
+    margin-bottom: 1.5rem;
+}
+
+.standardStyle{
+    box-shadow: 0px 5px 20px 0px rgb(0 0 0 / 25%);
+    border-radius: 10px;
+    width: 40vw;
+    padding: 0.6rem;
+}
+
+.standardStyle input{
+    background: #FAFAFA;
+    width: 38vw;
+    border: none;
+    padding: 1rem;
+    outline: none;
+    margin: -5px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #323D40;
+}
+.standardStyle select{
+    background: #FAFAFA;
+    width: 38vw;
+    border: none;
+    padding: 1rem;
+    outline: none;
+    margin: -5px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #323D40;
+}
+
+
+
+[design-bt="1"] {
+	display:inline-block;
+	cursor:pointer;
+	color:#518C81;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+
+    background: #80F2E7;
+    box-shadow: 0px 4px 25px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+[design-bt="1"]:hover {
+	background-color:#80F2E7;
+}
+[design-bt="1"]:active {
+	position:relative;
+	top:1px;
+}
+
+
+#screeshotPC{
+    display: block;
+}
