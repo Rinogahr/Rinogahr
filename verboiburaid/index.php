@@ -1,4 +1,5 @@
 <?php
+    session_start();
     include_once 'conectio.php';
 ?>
 <!DOCTYPE html>
@@ -14,13 +15,43 @@
 <body>
     <?php
     //exemplo de criptografia de senha com php
-      echo  password_hash('maciel0811', PASSWORD_DEFAULT);
+      //echo  password_hash('maciel@14', PASSWORD_DEFAULT);
     ?>
         <div id="screeshotPC"> <h1>Site disponivel apenas para Mobile</h1> </div>
 
         <?php 
             $dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
-            var_dump($dados);
+            if(!empty($dados['loginesenha'])){
+                var_dump($dados);
+               $queryUsuario = "SELECT  usu_Id, usu_Login, usu_Senha as senha,
+                        d.dp_Id, d.dp_Funcao, d.dp_Sala, d.dp_Nome
+                        FROM usuario, departamento as d
+                        WHERE usu_Login =:user
+                        LIMIT 1";
+                $resultUsuario = $conn->prepare($queryUsuario);
+                $resultUsuario->bindParam(':user',$dados['usuario'], PDO::PARAM_STR);
+                $resultUsuario->execute();
+
+                if( ($resultUsuario) AND ($resultUsuario->rowCount()) != 0 ){
+                    $row_usuario = $resultUsuario->fetch(PDO::FETCH_ASSOC);
+                    var_dump($row_usuario);
+                    
+                    if( password_verify( $dados['senha'], $row_usuario['senha'] ) ){
+                        echo "Usuário Logado";
+                    }else{
+                        $_SESSION['msg'] = "<p style='color: #ff0000'>Erro: Usúario ou Senha inválida rtdrtdrtd !</p>";
+                    }
+                }else{
+                    $_SESSION['msg'] = "<p style='color: #ff0000'>Erro: Usúario ou Senha inválida !</p>";
+                }
+
+                
+            }
+
+            if(isset($_SESSION['msg'])){
+                echo $_SESSION['msg'];
+                unset($_SESSION['msg']);
+            }
         ?>
             <div id="paiDivLogin">
                 <form action="" method="POST">

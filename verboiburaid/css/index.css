@@ -5,18 +5,20 @@ html body{
 @media screen and (max-width: 1280px) {
     #paiDivLogin{
         display: flex!important;
-        background: #80F2E7;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        
+       
     }
     #screeshotPC{
-        display: none!important;
+        /* display: none!important; */
     }
 }
 #paiDivLogin{
-    display: none;
+    /* display: none; */
+    display: flex;
+    background: #80F2E7;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 #filhoDivLogin{
