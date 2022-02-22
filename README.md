@@ -22,7 +22,7 @@ atuando na área a mais de <b>6 anos</b> em tecnologia, esforçado, dedicado e e
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-maciel-003b11184/)
    [![GitHub]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rinogahr)
    
-### 🛠️ Technologies e Tools I use: (😊 Tecnologias e Ferramentas que utilizo: 😊)
+### 🛠️ Technologies and Tools I use: (😊 Tecnologias e Ferramentas que utilizo: 😊)
 
 <div>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Rodrigo-html" height="50" width="60"/>
