@@ -25,18 +25,18 @@ atuando na área a mais de <b>6 anos</b> em tecnologia, esforçado, dedicado e e
 ### 🛠️ Technologies e Tools I use: (😊 Tecnologias e Ferramentas que utilizo: 😊)
 
 <div>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Rodrigo-html" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Rodrigo-CSS3" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Rodrigo-JavaScript" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Rodrigo-Jquery" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Rodrigo-ReactJs" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Rodrigo-AngulaJs" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Rodrigo-NodeJs" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Rodrigo-PHP" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Rodrigo-Laravel" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Rodrigo-git" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Rodrigo-GitHub" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Rodrigo-Oracle" height="30" width="40"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Rodrigo-MySql" height="30" width="40"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Rodrigo-html" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Rodrigo-CSS3" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Rodrigo-JavaScript" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Rodrigo-Jquery" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Rodrigo-ReactJs" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Rodrigo-AngulaJs" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Rodrigo-NodeJs" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Rodrigo-PHP" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Rodrigo-Laravel" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Rodrigo-git" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Rodrigo-GitHub" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Rodrigo-Oracle" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Rodrigo-MySql" height="50" width="60"/>
     <!--<img aling="center" src="" alt="Rodrigo-" height="30" width="40"/>-->
 </div>
