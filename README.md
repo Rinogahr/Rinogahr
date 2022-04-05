@@ -8,8 +8,8 @@ Conhecedor de <i>PHP</i>, <i>Laravel</i>, <i>Node.js</i>, para o Back End, <i>Re
 atuando na área a mais de <b>6 anos</b> em tecnologia, esforçado, dedicado e entusiasmado com programação.
     
  <div>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Rinogahr&show_icons=true&theme=synthwave"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinogahr&layout=compact&theme=synthwave"/>
+   <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=Rinogahr&show_icons=true&theme=synthwave"/>
+   <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinogahr&layout=compact&theme=synthwave"/>
  </div>
    
 #### 🌎 Let's get connected ( ✨ Vamos nos conectar ✨ )
