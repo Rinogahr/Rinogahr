@@ -30,8 +30,8 @@ atuando na área a mais de <b>6 anos</b> em tecnologia, esforçado, dedicado e e
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Rodrigo-JavaScript" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Rodrigo-Jquery" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Rodrigo-ReactJs" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Rodrigo-ReactNative" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" alt="Rodrigo-Svelte" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" alt="Rodrigo-ReactNative" height="50" width="60"/>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" alt="Rodrigo-Svelte" height="50" width="90"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Rodrigo-AngulaJs" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Rodrigo-NodeJs" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Rodrigo-PHP" height="50" width="60"/>
