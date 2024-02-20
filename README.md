@@ -34,7 +34,7 @@ atuando na área a mais de <b>6 anos</b> em tecnologia, esforçado, dedicado e e
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Rodrigo-AngulaJs" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Rodrigo-NodeJs" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Rodrigo-PHP" height="50" width="60"/>
-    <img aling="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://play-lh.googleusercontent.com/zCniKxijUXmw8CDvWTNMLad0mOWJkgmthvtaZNlYLipragveSxigapwvEm4KctJ72g)" alt="Rodrigo-Laravel" height="50" width="60"/>
+    <img aling="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F77016%2Flaravel&psig=AOvVaw13b9iC-10PzZxT60ydPI-T&ust=1708538516861000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBgI3AuoQDFQAAAAAdAAAAABAL" alt="Rodrigo-Laravel" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Rodrigo-git" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Rodrigo-GitHub" height="50" width="60"/>
     <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Rodrigo-Oracle" height="50" width="60"/>
