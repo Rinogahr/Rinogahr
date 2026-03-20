@@ -1,11 +1,35 @@
-# 🧐 Olá !
-    
-Eu sou Rodrigo Maciel
-    
- <b>Programador Web e programador Mobile</b>👨🏽‍💻<br>
- 
-Conhecedor de <i>PHP</i>, <i>Laravel</i>, <i>Node.js</i>, para o Back End, <i>React.js</i>, <i>Angular</i>, <i>React Native</i>, <i>Angular.js</i>, <i>Svelte.js</i>, <i>Docker</i>, HTML, CSS JavaScript para Front End, SQL com Oracle e Mysql para banco de dados,
-atuando na área a <b>10 anos</b> em tecnologia, esforçado, dedicado e entusiasmado com programação.
+# 👋 Olá, eu sou Rodrigo Maciel
+
+💻 **Desenvolvedor Full Stack Web & Mobile** com **10 anos de experiência em tecnologia**, atuando no desenvolvimento de aplicações modernas, escaláveis e de alta performance.
+
+## 🚀 Stack Principal
+
+### Back-End
+- PHP
+- Laravel
+- Node.js
+
+### Front-End
+- JavaScript
+- React.js
+- Angular
+- AngularJS
+- Svelte.js
+- HTML5
+- CSS3
+
+### Mobile
+- React Native
+
+### Banco de Dados
+- MySQL
+- Oracle SQL
+
+### Ferramentas
+- Docker
+
+## 🎯 Sobre mim
+Sou apaixonado por tecnologia, dedicado ao aprendizado contínuo e motivado por desafios que me permitam evoluir como desenvolvedor e entregar soluções de valor em projetos Web e Mobile.
     
  <div>
    <img height="125cm" src="https://github-readme-stats.vercel.app/api?username=Rinogahr&show_icons=true&theme=synthwave"/>
