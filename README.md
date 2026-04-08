@@ -1,67 +1,49 @@
-# 👋 Olá, eu sou Rodrigo Maciel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rodrigo Maciel
+=======================================================================================================================================
 
-💻 **Desenvolvedor Full Stack Web & Mobile** com **10 anos de experiência em tecnologia**, atuando no desenvolvimento de aplicações modernas, escaláveis e de alta performance.
+💻 Desenvolvedor Full Stack Web & Mobile
+----------------------------------------
 
-## 🚀 Stack Principal
+Tenho 10 anos de experiência em
 
-### Back-End
-- PHP
-- Laravel
-- Node.js
+desenvolvimento, manutenção e evolução de sistemas web e mobile.
 
-### Front-End
-- JavaScript
-- React.js
-- Angular
-- AngularJS
-- Svelte.js
-- HTML5
-- CSS3
+Atuação forte em PHP/Laravel, Node.js/NestJS e frameworks frontend
 
-### Mobile
-- React Native
+modernos, com experiência em ERPs, integrações, automação de
 
-### Banco de Dados
-- MySQL
-- Oracle SQL
+processos e plataformas Low Code. Foco em código limpo, escalável,
 
-### Ferramentas
-- Docker
+performance e alinhamento às regras de negócio.
 
-## 🎯 Sobre mim
-Sou apaixonado por tecnologia, dedicado ao aprendizado contínuo e motivado por desafios que me permitam evoluir como desenvolvedor e entregar soluções de valor em projetos Web e Mobile.
-    
- <div>
-   <img height="125cm" src="https://github-readme-stats.vercel.app/api?username=Rinogahr&show_icons=true&theme=synthwave"/>
-   <img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinogahr&layout=compact&theme=synthwave"/>
- </div>
-   
-#### 🌎 Let's get connected ( ✨ Vamos nos conectar ✨ )
-    
-   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
-   [![TeleGram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
-   [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rodrigopedro.m)
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maciel__r/)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-maciel-003b11184/)
-   [![GitHub]( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rinogahr)
-   
-### 🛠️ Technologies and Tools I use: (😊 Tecnologias e Ferramentas que utilizo: 😊)
+* 🌍  I'm based in Brasil
+* 🖥️  See my portfolio at [https://my-resume-nine-opal.vercel.app/](http://tarefaz.vercel.app/login)
+* ✉️  You can contact me at [rodrigopedro.m@gmail.com](mailto:rodrigopedro.m@gmail.com)
+* 🚀  I'm currently working on [Projeto Próprios](http://financial-wave.vercel.app/login)
+* 🧠  I'm currently learning Introdução ao n8n
+* 💬  Ask me about Experiência com Low Code e automação de processos. Forte atuação em integrações de sistemas e ERPs. Visão de negócio aliada à técnica. Perfil proativo, organizado e em constante evolução técnica.
 
-<div>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Rodrigo-html" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Rodrigo-CSS3" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Rodrigo-JavaScript" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Rodrigo-Jquery" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Rodrigo-ReactJs" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" alt="Rodrigo-Svelte" height="50" width="90"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Rodrigo-AngulaJs" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Rodrigo-NodeJs" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Rodrigo-PHP" height="50" width="60"/>
-    <img aling="center" src="https://cdn.iconscout.com/icon/free/png-512/free-laravel-226015.png?f=webp&w=256" alt="Rodrigo-Laravel" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Rodrigo-git" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Rodrigo-GitHub" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Rodrigo-Oracle" height="50" width="60"/>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Rodrigo-MySql" height="50" width="60"/>
-    <!--<img aling="center" src="" alt="Rodrigo-" height="30" width="40"/>-->
-</div>
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" alt="Svelte" title="Svelte" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Rinogahr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rodrigo-p-maciel/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/rodrigopedro.m/?locale=pt_BR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Rinogahr"><img src="https://github-readme-stats.vercel.app/api?username=Rinogahr&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rinogahr's GitHub stats" /></a>
+
+<a href="http://www.github.com/Rinogahr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinogahr&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Rinogahr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinogahr&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Rinogahr/https://github.com/Rinogahr/tarefaz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rinogahr&repo=https://github.com/Rinogahr/tarefaz&title_color=64748b&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rinogahr/https://github.com/Rinogahr/my-Resume" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rinogahr&repo=https://github.com/Rinogahr/my-Resume&title_color=64748b&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Rinogahr/https://github.com/Rinogahr/todo_list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rinogahr&repo=https://github.com/Rinogahr/todo_list&title_color=64748b&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
